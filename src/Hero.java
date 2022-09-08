@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Hero {
+public  abstract class  Hero implements HavingSuperAbility  {
+
+    int helth;
+    int damage;
+    String typeAttack;
+
 }
